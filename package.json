@@ -5,7 +5,7 @@
     "@adobe/lit-mobx": "2.0.0",
     "@polymer/iron-icon": "3.0.1",
     "@polymer/iron-list": "3.1.0",
-    "@polymer/polymer": "3.2.0",
+    "@polymer/polymer": "3.4.1",
     "@vaadin/accordion": "22.0.3",
     "@vaadin/app-layout": "22.0.3",
     "@vaadin/avatar": "22.0.3",
